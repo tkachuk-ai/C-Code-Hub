@@ -1,2 +1,2 @@
 # C-Code-Hub
-Welcome to my daily C programming repository!
+<p>Welcome to my daily C programming repository! <img src=Rocket.png" alt="Rocket" width="35px" height = 35px"></p>
