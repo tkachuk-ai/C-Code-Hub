@@ -6,3 +6,11 @@ int main(){
   printf("Hello, World!\n");
 } // end of function main
 
+
+/* Escape characters to remember
+   - \n new line
+   - \t tab
+   - \" quotes
+   - \\ backslash itself
+   - \b backspace
+  */
