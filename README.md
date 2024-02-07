@@ -1,2 +1,2 @@
-# C-Code-Hub
-<p>Welcome to my daily C programming repository! <img src="Rocket.gif" alt="Rocket" width="35px" height = 35px"></p>
+<h1>C-Code-Hub <img src="Rocket.gif" alt="Rocket" width="38px" height = 38px"></h1>
+<p>Welcome to my daily C programming repository!</p>
