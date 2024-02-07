@@ -3,7 +3,14 @@
 
 // Function main begins execution
 int main(){
-  printf("Hello, World!\n");
+    printf("Hello, World! Welcome to C!\n");
+    printf("Hello, World\b");
+    printf("\n");
+    printf("Hello, \"World\"!");
+    printf("\n");
+    printf("Hello, World!\\");
+    printf("\n");
+    printf("Hello, World!\t");
 } // end of function main
 
 
