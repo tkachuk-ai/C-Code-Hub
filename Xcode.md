@@ -1,6 +1,8 @@
 # Setting up Xcode on macOS
 
 1. Click on the AppStore icon in your Dock or find it through the Spotlight Search
+   
+<h1><img src="media/app_store.svg.png" alt="AppStore" width="38px" height = 38px"> AppStore</h1>
 
 > [!TIP]
 > Use shortcut for Spotlight Search: 'command + space'
