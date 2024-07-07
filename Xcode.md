@@ -7,5 +7,8 @@
 > [!TIP]
 > Use shortcut for Spotlight Search: 'command + space'
 2. In the search bar in AppStore type 'Xcode'
+
+<h1><img src="media/Xcode_14.png" alt="Xcode" width="50px" height = 50px"> Xcode</h1>
+
 3. Click on the 'get' and 'install' buttons to download the app. You may need to enter your Apple ID password
 4. The first time you open Xcode, you will need to agree to the license agreement and install any additional components that Xcode needs
