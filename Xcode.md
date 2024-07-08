@@ -1,4 +1,4 @@
-# Setting up Xcode on macOS
+# Setting up Xcode on macOS <img src="media/Electric_Plug.png" alt="Plug" width="40px" height="40px">
 
 1. Click on the AppStore icon in your Dock or find it through the Spotlight Search
    
