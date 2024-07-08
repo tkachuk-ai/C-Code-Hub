@@ -21,4 +21,10 @@
    For that, you want to choose macOS -> Command Line Tool -> Next
 
 <h1><img src="media/Template.png" alt="Template" width="680px" height="480px"></h1>
+
+9. Now you need to specify some properties of your project.
+   <br>
+   Give a name for your project and select 'C' as your programming language
+
+<h1><img src="media/Xcode_properties.png" alt="Properties" width="680px" height="480px"></h1>
    
