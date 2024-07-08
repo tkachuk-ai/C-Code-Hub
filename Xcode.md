@@ -39,4 +39,12 @@ To do that, click on the project name and hit the plus on the bottom to create a
     
 <h1><img src="media/Xcode_thread.png" alt="New thread" width="680px" height="480px"></h1>
 
-11. Now you have two threads with two default main files, and at the top you can specify which one your compiler should run. 
+11. Now you have two threads with two default main files, and at the top you can specify which one your compiler should run.
+<h1><img src="media/Xcode_run.png" alt="Specify a thread" width="680px" height="480px"></h1> 
+
+12. After you choose your thread, hit a run button at the top and the content of your chosen main file will be compiled and appear in a console window.
+<h1><img src="media/Xcode_compiled.png" alt="Compiled code" width="680px" height="480px"></h1>
+
+# Yay! 
+<p>You reached the end of the tutorial and now your IDE is properly set up to write your C code!</p>
+
