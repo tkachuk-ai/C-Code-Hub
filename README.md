@@ -7,4 +7,4 @@
 ### IDE: Xcode
 Check my **[mini-tutorial]** on how to set up Xcode to code in C:
 
-[mini-tutorial]: https://github.com/tkachuk-ai/C-Code-Hub/main/Xcode.md
+[mini-tutorial]: https://github.com/tkachuk-ai/C-Code-Hub/blob/main/Xcode.md
