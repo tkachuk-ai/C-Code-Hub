@@ -45,6 +45,8 @@ To do that, click on the project name and hit the plus on the bottom to create a
 12. After you choose your thread, hit a run button at the top and the content of your chosen main file will be compiled and appear in a console window.
 <h1><img src="media/Xcode_compiled.png" alt="Compiled code" width="680px" height="480px"></h1>
 
-# Yay! 
-<p>You reached the end of the tutorial and now your IDE is properly set up to write your C code!</p>
+# Yay! <img src="media/Sallute.png" alt="Yay!" width="47px" height="47px">
+You reached the end of the tutorial and now your IDE is properly set up to write your C code!
+<br>
+Congrats and good luck :)
 
