@@ -19,3 +19,6 @@
 8. To start coding in C, you have to choose a proper template for your project.
    <br>
    For that, you want to choose macOS -> Command Line Tool -> Next
+
+<h1><img src="media/Template.png" alt="Template" width="680px" height="480px"></h1>
+   
