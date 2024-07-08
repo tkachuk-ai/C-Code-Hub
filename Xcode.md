@@ -27,4 +27,14 @@
    Give a name for your project and select 'C' as your programming language
 
 <h1><img src="media/Xcode_properties.png" alt="Properties" width="680px" height="480px"></h1>
+
+10. Now you can see your project created with a default setup and file hierarchy.
+    <br>
+    
+> [!IMPORTANT]
+> Typically, you cannot run multiple .c files with main function within the same project.
+> However, if you create another thread, you can add a new .c file with another main function and specify which one to run. 
+
+To do that, click on the project name and hit the plus on the bottom to create another thread within the same project. You can create as many threads as you like. 
+    
    
