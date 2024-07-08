@@ -37,4 +37,4 @@
 
 To do that, click on the project name and hit the plus on the bottom to create another thread within the same project. You can create as many threads as you like. 
     
-   
+<h1><img src="media/Xcode_thread.png" alt="New thread" width="680px" height="480px"></h1>
