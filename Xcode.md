@@ -12,3 +12,10 @@
 
 3. Click on the 'get' and 'install' buttons to download the app. You may need to enter your Apple ID password
 4. The first time you open Xcode, you will need to agree to the license agreement and install any additional components that Xcode needs
+5. After you properly installed the IDE, you will see 3 options:
+
+   * Create New Project...
+   * Clone Git Repository...
+   * Open Existing Project...
+  
+7. Hit 'Create New Project'
