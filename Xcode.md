@@ -14,9 +14,8 @@
 4. The first time you open Xcode, you will need to agree to the license agreement and install any additional components that Xcode needs
 5. After you properly installed the IDE, you will see 3 options:
 <p><img src="media/Xcode_options.png" alt="Xcode options" width="400px" height="400px"></p>
-
-   * Create New Project...
-   * Clone Git Repository...
-   * Open Existing Project...
   
 7. Hit 'Create New Project'
+8. To start coding in C, you have to choose a proper template for your project.
+   <br>
+   For that, you want to choose macOS -> Command Line Tool -> Next
